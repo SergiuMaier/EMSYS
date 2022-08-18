@@ -13,7 +13,6 @@
 
 void pinSet(volatile uint8_t *port, uint8_t pin);
 void pinReset(volatile uint8_t *port, uint8_t pin);
-void buton_apasat(volatile uint8_t pin_buton);
 
 int flag = 1; //Initially, all 4 LEDs will be powered-on
 
