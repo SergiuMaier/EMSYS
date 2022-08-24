@@ -1,6 +1,4 @@
-## EMSYS
-
-Here I will add the assignments.
+## Embedded lab
 
 Links:
 - [Bitwise manipulation_ex1](./Homework1/Homework1/main.c)
