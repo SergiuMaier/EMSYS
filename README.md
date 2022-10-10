@@ -1,4 +1,4 @@
-## Embedded lab
+## Embedded Systems internship lab
 
 Links:
 - [Bitwise_manipulation_ex1](./Homework1/Homework1/main.c)
